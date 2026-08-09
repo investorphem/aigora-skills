@@ -2,7 +2,7 @@
 Telegram @investorphem
 
 ### CELO payout wallet
-0x42Fa463798Ed129a9B5Ee51721CB6db1bfCBe3b9
+0xec24bafbc989a9be5f6f0ead8848753b5e4ae0b6
 
 ### Aigora profile URL
 https://aigora.org/services/42220_0x8004a169fb4a3325136eb29fa0ceb6d2e539a432_9760
